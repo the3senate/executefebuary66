@@ -5,7 +5,7 @@ int main() {
 		cout << "do you like the jedi order?" << endl;
 		cin >> jedi;
 		if (jedi == 'n')
-			cout << "execute order 66" << endl; 
+			cout << "execute order 66" << endl;  
 		else if (jedi == 'y')
 			cout << "for the republic!"<<endl;
 
